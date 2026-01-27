@@ -6,6 +6,10 @@ venv/
 
 # Generated data (too large for git)
 manifest.json
+duplicates.json
+keep.txt
+delete.txt
+review.txt
 
 # Beads internal state
 .beads/export-state/
