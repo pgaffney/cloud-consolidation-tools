@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated data (too large for git)
+manifest.json
+
+# OS files
+.DS_Store
+Thumbs.db
