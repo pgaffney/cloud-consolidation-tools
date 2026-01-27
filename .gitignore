@@ -7,6 +7,9 @@ venv/
 # Generated data (too large for git)
 manifest.json
 
+# Beads internal state
+.beads/export-state/
+
 # OS files
 .DS_Store
 Thumbs.db
