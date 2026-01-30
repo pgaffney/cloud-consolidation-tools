@@ -6,10 +6,16 @@ venv/
 
 # Generated data (too large for git)
 manifest.json
+manifest-*.json
 duplicates.json
 keep.txt
 delete.txt
 review.txt
+organize-log.txt
+taxonomy-mapping.tsv
+taxonomy-analysis.json
+taxonomy-structure.txt
+taxonomy-filtered/
 
 # Beads internal state
 .beads/export-state/
