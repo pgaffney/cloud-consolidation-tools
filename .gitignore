@@ -12,10 +12,15 @@ keep.txt
 delete.txt
 review.txt
 organize-log.txt
+organize-log-*.txt
+deletion-log.txt
+deletion-log-*.txt
 taxonomy-mapping.tsv
 taxonomy-analysis.json
 taxonomy-structure.txt
 taxonomy-filtered/
+taxonomy-googledrive/
+taxonomy-dropbox/
 
 # Beads internal state
 .beads/export-state/
